@@ -11,7 +11,7 @@ DIRECTORY-STRUCTURE.md
 # WordPress Core (Already in repo as theme only)
 wp-admin/
 wp-includes/
-wp-config.php
+# wp-config.php
 wp-settings.php
 index.php
 license.txt
