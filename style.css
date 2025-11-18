@@ -1,0 +1,17 @@
+/*
+Theme Name: Chhapakhana
+Theme URI: https://github.com/SumanUD/chhapakhana
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: A professional WordPress theme converted from Chhapakhana HTML template. Features sections for Home, About Us, Portfolio, Contacts, and Blogs.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: chhapakhana
+Tags: business, portfolio, blog, responsive, custom-post-types
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* The actual styles are enqueued via functions.php to maintain proper loading order */

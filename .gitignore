@@ -1,0 +1,84 @@
+# Markdown Documentation Files (Explainers - Not for Repo)
+*.md
+SETUP-SUMMARY.md
+QUICK-START.md
+WORDPRESS-BEGINNER-GUIDE.md
+PLUGIN-GUIDE.md
+ECOMMERCE-SETUP.md
+THEME-DEVELOPMENT.md
+DIRECTORY-STRUCTURE.md
+
+# WordPress Core (Already in repo as theme only)
+wp-admin/
+wp-includes/
+wp-config.php
+wp-settings.php
+index.php
+license.txt
+readme.html
+wp-load.php
+wp-blog-header.php
+wp-cron.php
+
+# WordPress Database & Uploads
+wp-content/uploads/
+wp-content/backup-*
+
+# Plugins (except custom ones)
+wp-content/plugins/
+!wp-content/plugins/chhapakhana-custom/
+
+# WordPress Cache & Temp Files
+.wp-cache/
+wp-content/cache/
+
+# OS Files
+.DS_Store
+Thumbs.db
+.env
+.env.local
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+*.sublime-project
+*.sublime-workspace
+
+# Node/Build Tools
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temporary Files
+*.tmp
+*.bak
+*.backup
+*.temp
+
+# Database backups
+*.sql
+*.sql.gz
+
+# Docker (No longer using)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Old HTML Template Files (Reference - Not needed in repo)
+chhapakhana/
+chhapakhana.zip
+
+```
